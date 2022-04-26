@@ -1,0 +1,16 @@
+COntroller:
+D Pad: 	
+    Up - hard drop in Infinite
+	Down - Drop gradually in Infinite
+	Left/Right - Move left/right
+	X/Square - rotate anti-clockwise - also confirm
+	O/triangle - rotate clockwise - also back
+
+Keyboard:
+	Up - hard drop in Infinite
+	Down - Drop gradually in Infinite
+	Left/Right - Move left/right
+	Z - rotate anti-clockwise
+	X - rotate clockwise
+	Enter - Confirm / start
+    p - Pause the Game in infinite
